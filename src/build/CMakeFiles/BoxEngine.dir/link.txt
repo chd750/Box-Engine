@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/BoxEngine.dir/main.c.o -o BoxEngine  -Wl,-rpath,/home/superomego/Desktop/code/BoxEngine/src/build/SDL3_git SDL3_git/libSDL3.so.0.2.24 

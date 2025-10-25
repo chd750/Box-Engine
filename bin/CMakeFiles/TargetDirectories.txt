@@ -1,0 +1,8 @@
+/home/superomego/Desktop/code/BoxEngine/bin/CMakeFiles/BoxEngine.dir
+/home/superomego/Desktop/code/BoxEngine/bin/CMakeFiles/edit_cache.dir
+/home/superomego/Desktop/code/BoxEngine/bin/CMakeFiles/rebuild_cache.dir
+/home/superomego/Desktop/code/BoxEngine/bin/SDL3_git/CMakeFiles/SDL3-shared.dir
+/home/superomego/Desktop/code/BoxEngine/bin/SDL3_git/CMakeFiles/SDL3_test.dir
+/home/superomego/Desktop/code/BoxEngine/bin/SDL3_git/CMakeFiles/SDL_uclibc.dir
+/home/superomego/Desktop/code/BoxEngine/bin/SDL3_git/CMakeFiles/edit_cache.dir
+/home/superomego/Desktop/code/BoxEngine/bin/SDL3_git/CMakeFiles/rebuild_cache.dir

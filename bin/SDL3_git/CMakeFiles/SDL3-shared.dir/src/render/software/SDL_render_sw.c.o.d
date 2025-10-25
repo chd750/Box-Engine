@@ -1,0 +1,19 @@
+SDL3_git/CMakeFiles/SDL3-shared.dir/src/render/software/SDL_render_sw.c.o: \
+ /home/superomego/Desktop/code/BoxEngine/src/SDL3_git/src/render/software/SDL_render_sw.c \
+ /usr/include/stdc-predef.h \
+ /home/superomego/Desktop/code/BoxEngine/src/SDL3_git/src/SDL_internal.h \
+ /home/superomego/Desktop/code/BoxEngine/src/SDL3_git/src/render/software/../SDL_sysrender.h \
+ /home/superomego/Desktop/code/BoxEngine/src/SDL3_git/src/render/software/../../video/SDL_surface_c.h \
+ /home/superomego/Desktop/code/BoxEngine/src/SDL3_git/src/render/software/../../video/SDL_blit.h \
+ /home/superomego/Desktop/code/BoxEngine/src/SDL3_git/src/render/software/../SDL_yuv_sw_c.h \
+ /home/superomego/Desktop/code/BoxEngine/src/SDL3_git/src/render/software/SDL_render_sw_c.h \
+ /home/superomego/Desktop/code/BoxEngine/src/SDL3_git/src/render/software/SDL_draw.h \
+ /home/superomego/Desktop/code/BoxEngine/src/SDL3_git/src/render/software/../../video/SDL_surface_c.h \
+ /home/superomego/Desktop/code/BoxEngine/src/SDL3_git/src/render/software/SDL_blendfillrect.h \
+ /home/superomego/Desktop/code/BoxEngine/src/SDL3_git/src/render/software/SDL_blendline.h \
+ /home/superomego/Desktop/code/BoxEngine/src/SDL3_git/src/render/software/SDL_blendpoint.h \
+ /home/superomego/Desktop/code/BoxEngine/src/SDL3_git/src/render/software/SDL_drawline.h \
+ /home/superomego/Desktop/code/BoxEngine/src/SDL3_git/src/render/software/SDL_drawpoint.h \
+ /home/superomego/Desktop/code/BoxEngine/src/SDL3_git/src/render/software/SDL_rotate.h \
+ /home/superomego/Desktop/code/BoxEngine/src/SDL3_git/src/render/software/SDL_triangle.h \
+ /home/superomego/Desktop/code/BoxEngine/src/SDL3_git/src/render/software/../../video/SDL_pixels_c.h
