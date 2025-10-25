@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <SDL3/SDL_init.h>
-#include <SDL3/SDL_video.h>
 #include <SDL3/SDL_events.h>
+#include <rendering.h>
 
 void fps(float rate, Uint64 *last_f){
 	
