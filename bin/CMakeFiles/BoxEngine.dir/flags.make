@@ -4,7 +4,7 @@
 # compile C with /usr/bin/cc
 C_DEFINES = 
 
-C_INCLUDES = -I/home/superomego/Desktop/code/BoxEngine/bin/SDL3_git/include-revision -I/home/superomego/Desktop/code/BoxEngine/src/SDL3_git/include
+C_INCLUDES = -I/home/superomego/Desktop/code/BoxEngine/src/. -I/home/superomego/Desktop/code/BoxEngine/bin/SDL3_git/include-revision -I/home/superomego/Desktop/code/BoxEngine/src/SDL3_git/include
 
 C_FLAGS = 
 

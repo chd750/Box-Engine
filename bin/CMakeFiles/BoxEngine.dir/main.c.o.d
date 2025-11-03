@@ -24,9 +24,9 @@ CMakeFiles/BoxEngine.dir/main.c.o: \
  /usr/include/x86_64-linux-gnu/bits/stdio_lim.h \
  /usr/include/x86_64-linux-gnu/bits/floatn.h \
  /usr/include/x86_64-linux-gnu/bits/floatn-common.h \
- /home/superomego/Desktop/code/BoxEngine/src/SDL3_git/include/SDL3/SDL_init.h \
- /home/superomego/Desktop/code/BoxEngine/src/SDL3_git/include/SDL3/SDL_stdinc.h \
- /home/superomego/Desktop/code/BoxEngine/src/SDL3_git/include/SDL3/SDL_platform_defines.h \
+ /home/superomego/Desktop/code/BoxEngine/src/./SDL3/SDL_init.h \
+ /home/superomego/Desktop/code/BoxEngine/src/./SDL3/SDL_stdinc.h \
+ /home/superomego/Desktop/code/BoxEngine/src/./SDL3/SDL_platform_defines.h \
  /usr/lib/gcc/x86_64-linux-gnu/13/include/stdint.h /usr/include/stdint.h \
  /usr/include/x86_64-linux-gnu/bits/wchar.h \
  /usr/include/x86_64-linux-gnu/bits/stdint-intn.h \
@@ -39,35 +39,58 @@ CMakeFiles/BoxEngine.dir/main.c.o: \
  /usr/include/x86_64-linux-gnu/bits/types/mbstate_t.h \
  /usr/include/inttypes.h \
  /usr/lib/gcc/x86_64-linux-gnu/13/include/stdbool.h \
- /home/superomego/Desktop/code/BoxEngine/src/SDL3_git/include/SDL3/SDL_begin_code.h \
- /home/superomego/Desktop/code/BoxEngine/src/SDL3_git/include/SDL3/SDL_close_code.h \
- /home/superomego/Desktop/code/BoxEngine/src/SDL3_git/include/SDL3/SDL_error.h \
- /home/superomego/Desktop/code/BoxEngine/src/SDL3_git/include/SDL3/SDL_events.h \
- /home/superomego/Desktop/code/BoxEngine/src/SDL3_git/include/SDL3/SDL_audio.h \
- /home/superomego/Desktop/code/BoxEngine/src/SDL3_git/include/SDL3/SDL_endian.h \
+ /home/superomego/Desktop/code/BoxEngine/src/./SDL3/SDL_begin_code.h \
+ /home/superomego/Desktop/code/BoxEngine/src/./SDL3/SDL_close_code.h \
+ /home/superomego/Desktop/code/BoxEngine/src/./SDL3/SDL_error.h \
+ /home/superomego/Desktop/code/BoxEngine/src/./SDL3/SDL_events.h \
+ /home/superomego/Desktop/code/BoxEngine/src/./SDL3/SDL_audio.h \
+ /home/superomego/Desktop/code/BoxEngine/src/./SDL3/SDL_endian.h \
  /usr/include/endian.h /usr/include/x86_64-linux-gnu/bits/endian.h \
  /usr/include/x86_64-linux-gnu/bits/endianness.h \
  /usr/include/x86_64-linux-gnu/bits/byteswap.h \
  /usr/include/x86_64-linux-gnu/bits/uintn-identity.h \
- /home/superomego/Desktop/code/BoxEngine/src/SDL3_git/include/SDL3/SDL_mutex.h \
- /home/superomego/Desktop/code/BoxEngine/src/SDL3_git/include/SDL3/SDL_atomic.h \
- /home/superomego/Desktop/code/BoxEngine/src/SDL3_git/include/SDL3/SDL_thread.h \
- /home/superomego/Desktop/code/BoxEngine/src/SDL3_git/include/SDL3/SDL_properties.h \
- /home/superomego/Desktop/code/BoxEngine/src/SDL3_git/include/SDL3/SDL_iostream.h \
- /home/superomego/Desktop/code/BoxEngine/src/SDL3_git/include/SDL3/SDL_camera.h \
- /home/superomego/Desktop/code/BoxEngine/src/SDL3_git/include/SDL3/SDL_pixels.h \
- /home/superomego/Desktop/code/BoxEngine/src/SDL3_git/include/SDL3/SDL_surface.h \
- /home/superomego/Desktop/code/BoxEngine/src/SDL3_git/include/SDL3/SDL_blendmode.h \
- /home/superomego/Desktop/code/BoxEngine/src/SDL3_git/include/SDL3/SDL_rect.h \
- /home/superomego/Desktop/code/BoxEngine/src/SDL3_git/include/SDL3/SDL_gamepad.h \
- /home/superomego/Desktop/code/BoxEngine/src/SDL3_git/include/SDL3/SDL_guid.h \
- /home/superomego/Desktop/code/BoxEngine/src/SDL3_git/include/SDL3/SDL_joystick.h \
- /home/superomego/Desktop/code/BoxEngine/src/SDL3_git/include/SDL3/SDL_power.h \
- /home/superomego/Desktop/code/BoxEngine/src/SDL3_git/include/SDL3/SDL_sensor.h \
- /home/superomego/Desktop/code/BoxEngine/src/SDL3_git/include/SDL3/SDL_keyboard.h \
- /home/superomego/Desktop/code/BoxEngine/src/SDL3_git/include/SDL3/SDL_keycode.h \
- /home/superomego/Desktop/code/BoxEngine/src/SDL3_git/include/SDL3/SDL_scancode.h \
- /home/superomego/Desktop/code/BoxEngine/src/SDL3_git/include/SDL3/SDL_video.h \
- /home/superomego/Desktop/code/BoxEngine/src/SDL3_git/include/SDL3/SDL_mouse.h \
- /home/superomego/Desktop/code/BoxEngine/src/SDL3_git/include/SDL3/SDL_pen.h \
- /home/superomego/Desktop/code/BoxEngine/src/SDL3_git/include/SDL3/SDL_touch.h
+ /home/superomego/Desktop/code/BoxEngine/src/./SDL3/SDL_mutex.h \
+ /home/superomego/Desktop/code/BoxEngine/src/./SDL3/SDL_atomic.h \
+ /home/superomego/Desktop/code/BoxEngine/src/./SDL3/SDL_thread.h \
+ /home/superomego/Desktop/code/BoxEngine/src/./SDL3/SDL_properties.h \
+ /home/superomego/Desktop/code/BoxEngine/src/./SDL3/SDL_iostream.h \
+ /home/superomego/Desktop/code/BoxEngine/src/./SDL3/SDL_camera.h \
+ /home/superomego/Desktop/code/BoxEngine/src/./SDL3/SDL_pixels.h \
+ /home/superomego/Desktop/code/BoxEngine/src/./SDL3/SDL_surface.h \
+ /home/superomego/Desktop/code/BoxEngine/src/./SDL3/SDL_blendmode.h \
+ /home/superomego/Desktop/code/BoxEngine/src/./SDL3/SDL_rect.h \
+ /home/superomego/Desktop/code/BoxEngine/src/./SDL3/SDL_gamepad.h \
+ /home/superomego/Desktop/code/BoxEngine/src/./SDL3/SDL_guid.h \
+ /home/superomego/Desktop/code/BoxEngine/src/./SDL3/SDL_joystick.h \
+ /home/superomego/Desktop/code/BoxEngine/src/./SDL3/SDL_power.h \
+ /home/superomego/Desktop/code/BoxEngine/src/./SDL3/SDL_sensor.h \
+ /home/superomego/Desktop/code/BoxEngine/src/./SDL3/SDL_keyboard.h \
+ /home/superomego/Desktop/code/BoxEngine/src/./SDL3/SDL_keycode.h \
+ /home/superomego/Desktop/code/BoxEngine/src/./SDL3/SDL_scancode.h \
+ /home/superomego/Desktop/code/BoxEngine/src/./SDL3/SDL_video.h \
+ /home/superomego/Desktop/code/BoxEngine/src/./SDL3/SDL_mouse.h \
+ /home/superomego/Desktop/code/BoxEngine/src/./SDL3/SDL_pen.h \
+ /home/superomego/Desktop/code/BoxEngine/src/./SDL3/SDL_touch.h \
+ /home/superomego/Desktop/code/BoxEngine/src/./include/rendering.h \
+ /usr/include/stdlib.h /usr/include/x86_64-linux-gnu/bits/waitflags.h \
+ /usr/include/x86_64-linux-gnu/bits/waitstatus.h \
+ /usr/include/x86_64-linux-gnu/sys/types.h \
+ /usr/include/x86_64-linux-gnu/bits/types/clock_t.h \
+ /usr/include/x86_64-linux-gnu/bits/types/clockid_t.h \
+ /usr/include/x86_64-linux-gnu/bits/types/time_t.h \
+ /usr/include/x86_64-linux-gnu/bits/types/timer_t.h \
+ /usr/include/x86_64-linux-gnu/sys/select.h \
+ /usr/include/x86_64-linux-gnu/bits/select.h \
+ /usr/include/x86_64-linux-gnu/bits/types/sigset_t.h \
+ /usr/include/x86_64-linux-gnu/bits/types/__sigset_t.h \
+ /usr/include/x86_64-linux-gnu/bits/types/struct_timeval.h \
+ /usr/include/x86_64-linux-gnu/bits/types/struct_timespec.h \
+ /usr/include/x86_64-linux-gnu/bits/pthreadtypes.h \
+ /usr/include/x86_64-linux-gnu/bits/thread-shared-types.h \
+ /usr/include/x86_64-linux-gnu/bits/pthreadtypes-arch.h \
+ /usr/include/x86_64-linux-gnu/bits/atomic_wide_counter.h \
+ /usr/include/x86_64-linux-gnu/bits/struct_mutex.h \
+ /usr/include/x86_64-linux-gnu/bits/struct_rwlock.h /usr/include/alloca.h \
+ /usr/include/x86_64-linux-gnu/bits/stdlib-float.h \
+ /home/superomego/Desktop/code/BoxEngine/src/./SDL3/SDL_render.h \
+ /home/superomego/Desktop/code/BoxEngine/src/./include/audio.h
